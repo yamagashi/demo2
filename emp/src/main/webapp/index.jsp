@@ -32,9 +32,9 @@
 	<div class="footer_top">
 		<table class="table_format" >
 			<tr><th>管理者情報</th></tr>
-			<tr><td class="cel">会社名</td><td>&nbsp;</td><td>株式会社 Start Up Education</td></tr>
+			<tr><td class="cel">会社名</td><td>&nbsp;</td><td>株式会社 Education</td></tr>
 			<tr><td class="cel">Tell</td><td>&nbsp;</td><td>03-3333-3333</td>
-			<tr><td class="cel">Email</td><td>&nbsp;</td><td>startup_edu@freemail.com</td></tr>
+			<tr><td class="cel">Email</td><td>&nbsp;</td><td>edu@freemail.com</td></tr>
 		</table>
 	</div>
 
